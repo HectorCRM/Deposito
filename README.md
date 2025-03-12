@@ -1,3 +1,6 @@
-<h1 align="center"> Mi primer repositorio </h1>
-![Logo Cuenta](https://github.com/user-attachments/assets/d1201b5b-6c8e-45c7-8d02-839a58c88ed8)
-:construction: En proceso de creación :construction:
+:construction: Este ReadMe se encuentra en proceso de creación :construction:
+# ¡Mi primer repositorio! 
+_¡Hola! Este es mi primer repositorio, utilizado para mi formacion en DAM._
+_Lo he creado para mi tarea de Entornos de Desarrollo, poniendo en practica los conocimientos que poco a poco voy adquiriendo._
+## ¿Para que sirve este repositorio?
+
