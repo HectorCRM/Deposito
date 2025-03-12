@@ -1,2 +1,2 @@
-![Diseño sin título](https://github.com/user-attachments/assets/57de3570-e00a-455c-bf55-a43c00ae4046)
+![Logo Cuenta](https://github.com/user-attachments/assets/d1201b5b-6c8e-45c7-8d02-839a58c88ed8)
 :construction: En proceso de creación :construction:
