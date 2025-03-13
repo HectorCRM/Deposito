@@ -21,7 +21,7 @@ Tambien hemos sincronizado nuestro repositorio local con GitHub
 -[GIT](https://git-scm.com/downloads)  
 -Tener una cuenta en [GitHub](https://github.com/)
 ## Autor 👨‍🎓
--Héctor Monroy Fuertes- Estudiante de DAM  
+**Héctor Monroy Fuertes** - Estudiante de DAM.  
 ![Diseño sin título (1)](https://github.com/user-attachments/assets/90ff6560-c9a4-4bc3-ba9b-f7c475654b0f)
 
 
