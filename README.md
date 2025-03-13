@@ -1,10 +1,26 @@
 :construction: Este Readme se encuentra en proceso de creación :construction:
-![Diseño sin título (1)](https://github.com/user-attachments/assets/78f6f48e-c3d4-41e2-970e-7af4b7ec242a)
 # ¡Mi primer repositorio! 📁
-_¡Hola! Este es mi primer repositorio, creado para mi formación en DAM._
-_Lo he creado para mi tarea de Entornos de Desarrollo, para poner en practica los conocimientos que poco a poco voy adquiriendo._
+¡Hola! Este es mi primer repositorio, creado para mi formación en DAM.  
+Lo he creado para mi tarea de Entornos de Desarrollo, para poner en practica los conocimientos que poco a poco voy adquiriendo.
 ## ¿Para que sirve este repositorio? ❓
-_El objetivo de este repositorio es practicar la optimización y documentación de codigo por un lado, y por otro, aprender a crear y gestionar repositorios_
+El objetivo de este repositorio es practicar la optimización y documentación de codigo por un lado, y por otro, aprender a crear y gestionar repositorios.  
+Se ha practicado la refactorización en un codigo dado, el cual luego ha sido comentado para generar documentación con JavaDoc.  
+También se ha practicado la creación de repositorios locales para nuestros proyectos y hemos utilizado algunos comandos GIT con ellos.  
+Como por ejemplo este comando que nos permite ver los _commits_ realizados en un repositorio:  
+```
+git log
+```  
+O este otro, que permite realizar un _commit_ desde consola:
+```
+git commit -m "Aqui nuestro mensaje"
+```
+Tambien hemos sincronizado nuestro repositorio local con GitHub 
 ## Herramientas utilizadas 🛠️
-_Necesitaremos el IDE de nuestra preferencia (Eclipse en mi caso), JavaDoc para documentar nuestro codigo y herramientas para el control de versiones(Git para crear repostorios locales y consola de comandos y cuenta en GitHub para almacenar repositorios en la nube)_
+-Ordenador con acceso a internet (obvio ¿no?)  
+-IDE [Eclipse](https://eclipseide.org/)  
+-[GIT](https://git-scm.com/downloads)  
+-Tener una cuenta en [GitHub](https://github.com/)
+
+
+
 
